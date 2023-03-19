@@ -15,6 +15,19 @@ This project is a real-time, procedurally generated hallway inspired by The Shin
 
 ![image](https://user-images.githubusercontent.com/94066846/226165711-15d8ce92-861a-425d-a4de-1d4b2f6a91fb.png)
 
+## Blueprints
+
+**Click** the image for better quality
+### BP_BackgroundMusic:
+
+![image](https://user-images.githubusercontent.com/94066846/226169015-c6dc168f-be01-4f0e-897b-fe7cba0a40f0.png)
+
+### BP_MeshGenerator:
+
+![image](https://user-images.githubusercontent.com/94066846/226169236-fc12d26c-a19c-4f31-abc8-8e6dec476659.png)
+![image](https://user-images.githubusercontent.com/94066846/226169612-b2fdeb91-3542-4f91-8a9d-45f6ad902a2c.png)
+![image](https://user-images.githubusercontent.com/94066846/226169795-adf63c25-43a5-4f9f-bc99-70630f4e79e8.png)
+
 
 
 ## Features
